@@ -1,0 +1,5 @@
+Game:Rescue Rovers
+OS: Windows
+
+useing WASD and SPACE, load in commands to have the robot follow to get to yoru objective while avoiding any obsticles.
+ Try this over and over, adjusting as needed until you are seuccesful or you run out of robots!
